@@ -1,6 +1,6 @@
 These are some notes, where I've been studying browser and device notifications.
 
- Sns Client is a good usage for email dhe device notifications. 
+ Sns Client is a good usage for email and device notifications. 
  
  Web push is a library used for browser notifications.
  
